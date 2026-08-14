@@ -1,0 +1,6 @@
+LangChain is a framework for developing applications powered by large language models (LLMs).
+It provides tools for chaining together LLM calls, integrating retrieval-augmented generation (RAG),
+connecting to vector stores, and building agents that can use external tools.
+LangChain was created by Harrison Chase and was first released in October 2022.
+It has since grown into a widely used framework for building LLM-powered applications,
+including chatbots, question-answering systems, and autonomous agents.
